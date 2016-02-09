@@ -1,0 +1,25 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    border: 0px none;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgba(171, 171, 171, 0);
+    color: #000;
+    background-position: left top;
+    background-size: auto auto;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-image: url("css/background.jpg");
+}
