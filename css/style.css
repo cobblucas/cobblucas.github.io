@@ -23,3 +23,11 @@ body {
     background-repeat: repeat;
     background-image: url("../img/background.jpg");
 }
+
+.canvas {
+    background-color: #fff;
+    border: 6px solid #000;
+    max-width: 970px;
+    margin: 43px auto;
+    padding: 60px;
+}
